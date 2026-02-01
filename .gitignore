@@ -1,0 +1,13 @@
+/node_modules
+package-lock.json
+.env
+.idea
+
+# Archive files
+*.zip
+*.rar
+
+# System files
+.DS_Store
+Thumbs.db
+*.zip*
